@@ -1,5 +1,6 @@
-<?php
+<?php include('header.php') ?>
 
-echo 'Hello World!!!';
-echo 'Hello World!!!';
-echo 'Hello World!!!';
+<h1>Hello, world!</h1>
+
+<?php include('footer.php') ?>
+
